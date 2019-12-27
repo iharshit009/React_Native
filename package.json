@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "native-base": "^2.13.8"
+  }
+}
