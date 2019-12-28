@@ -38,6 +38,13 @@ export default class App extends React.Component {
     }
     this.forceUpdate();
   };
+  // limitScratch = () => {
+  //   if (itemArray.length() > 5){
+
+  //     this.forceUpdate()
+  //   }
+  // }
+  //  Tried to implement the limit to a particular number but could not do
 
   scratchItemIcon = itemNumber => {
     //find right icon
