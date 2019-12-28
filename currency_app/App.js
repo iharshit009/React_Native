@@ -28,7 +28,7 @@ export default class App extends React.Component {
       Alert.alert("please enter some value");
     }
 
-    let result = parseFloat(this.state.inputValue) * currencyPerRupee[currency]
+    let result = parseFloat(this.state.inputValue) * currencyPerRupee[currency];
   };
   render() {
     return (
