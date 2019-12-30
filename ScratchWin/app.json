@@ -4,6 +4,9 @@
     "slug": "ScratchWin",
     "privacy": "public",
     "sdkVersion": "36.0.0",
+    "android": {
+      "package":"me.iharshit009.scratchwin"
+    },
     "platforms": [
       "ios",
       "android",

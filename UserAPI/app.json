@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "SpanishNumber",
-    "slug": "SpanishNumber",
+    "name": "UserAPI",
+    "slug": "UserAPI",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "android": {
-      "package": "me.iharshit009.spanishnumber"
+      "package": "me.iharshit009.UserAPI"
     },
     "platforms": [
       "ios",
@@ -27,7 +27,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "me.iharshit009.UserAPI"
     }
   }
 }

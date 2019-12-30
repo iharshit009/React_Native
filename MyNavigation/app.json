@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "SpanishNumber",
-    "slug": "SpanishNumber",
+    "name": "MyNavigator",
+    "slug": "MyNavigation",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "android": {
-      "package": "me.iharshit009.spanishnumber"
+      "package": "me.iharshit009.mynavigator"
     },
     "platforms": [
       "ios",

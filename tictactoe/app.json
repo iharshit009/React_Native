@@ -1,9 +1,12 @@
 {
   "expo": {
-    "name": "tictactoe",
+    "name": "Feeds App",
     "slug": "tictactoe",
     "privacy": "public",
     "sdkVersion": "36.0.0",
+    "android": {
+      "package": "me.iharshit009.tictactoe"
+    },
     "platforms": [
       "ios",
       "android",
