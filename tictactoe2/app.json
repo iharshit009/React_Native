@@ -4,6 +4,9 @@
     "slug": "tictactoe2",
     "privacy": "public",
     "sdkVersion": "36.0.0",
+    "android": {
+      "package": "me.iharshit009.tictactoe2"
+    },
     "platforms": [
       "ios",
       "android",
