@@ -1,0 +1,51 @@
+{
+  "name": "petcare",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@philly25/react-native-paytm": "^1.0.12",
+    "@react-native-community/async-storage": "^1.7.1",
+    "axios": "^0.19.0",
+    "galio-framework": "^0.6.3",
+    "native-base": "^2.13.8",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-credit-card-input": "^0.4.1",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-drawer": "^2.5.1",
+    "react-native-gesture-handler": "^1.5.2",
+    "react-native-image-picker": "^0.28.0",
+    "react-native-keyboard-spacer": "^0.4.1",
+    "react-native-reanimated": "^1.4.0",
+    "react-native-shadow": "^1.2.2",
+    "react-native-simple-time-picker": "^0.2.0",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-svg": "^10.0.0",
+    "react-native-upi-payment": "^1.0.2",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.0.10",
+    "react-navigation-drawer": "^2.3.3",
+    "react-navigation-stack": "^1.10.3",
+    "rn-android-picker-dialog": "^1.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/runtime": "^7.7.7",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.8.0",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.57.0",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
