@@ -8,6 +8,11 @@ chatbot(Assistant) ​ made with DialogFlow which notices all the user
 activity related to its​ expenses​ credited/debited. It has a suggestion module which records,​ analyses​ the expenses and plots appealing graphs ​for you.
 
 [SHOT](https://github.com/iharshit009/React_Native/blob/master/ArtificialAdvisor/components/shot)
+[IMG](https://github.com/iharshit009/React_Native/blob/master/ArtificialAdvisor/components/show1.png)
+[IMG](https://github.com/iharshit009/React_Native/blob/master/ArtificialAdvisor/components/show2.png)
+[IMG](https://github.com/iharshit009/React_Native/blob/master/ArtificialAdvisor/components/show3.png)
+[IMG](https://github.com/iharshit009/React_Native/blob/master/ArtificialAdvisor/components/show4.png)
+
 
 # The main feature of this app
 
