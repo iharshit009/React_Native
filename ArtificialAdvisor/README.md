@@ -7,7 +7,7 @@ It’s similar to an Expense Tracker but ​ more than that​ . It includes a
 chatbot(Assistant) ​ made with DialogFlow which notices all the user
 activity related to its​ expenses​ credited/debited. It has a suggestion module which records,​ analyses​ the expenses and plots appealing graphs ​for you.
 
-[](https://github.com/iharshit009/React_Native/blob/master/ArtificialAdvisor/components/shot.mp4)
+[](https://github.com/iharshit009/React_Native/blob/master/ArtificialAdvisor/components/shot)
 
 # The main feature of this app
 
